@@ -39,7 +39,7 @@ p {
     overflow-y: auto;
 }
 .row {
-    width: 100%;                        
+    width: 100%;      
 }
 
 
@@ -72,3 +72,6 @@ p {
         padding : 5px;
     }        
 }
+
+
+
