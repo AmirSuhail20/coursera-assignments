@@ -44,7 +44,7 @@ WARNING!!! WARNING!!!
   // 'speak' method.
   // See Lecture 50, part 1
 
-  for ( name in names /* fill in parts of the 'for' loop to loop over names array */) {
+  for (var name in names /* fill in parts of the 'for' loop to loop over names array */) {
 
     // STEP 11:
     // Retrieve the first letter of the current name in the loop.
